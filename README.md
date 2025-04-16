@@ -27,3 +27,8 @@ There are many shortcomings, but we will continue to develop
 세 가지를 중점으로 공부하였습니다.
 
 I focused on three things
+
+---
+Version 1 (25/04/16) Updata
+
+---
